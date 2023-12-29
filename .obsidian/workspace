@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "bb2b1afc0079844c",
+    "type": "split",
+    "children": [
+      {
+        "id": "43d6917a11f3e7ae",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e385be823c670d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9acd9cf4b1a50221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c7d7cab4218afa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "97caaee2f5e74c81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e717317ff230f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "50448159ca433ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eebe7e70bb60f73b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce54b622da4e9558",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b5687a4e8d7f476",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38dd8e27dc1b4bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "968277963fadea78",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "45c7d7cab4218afa",
+  "lastOpenFiles": [
+    "Template/SSG.md",
+    "목차.md",
+    "POS 업무목록(태블릿).md",
+    "POS 업무목록(캐쉬터미널).md",
+    "POS 업무목록(대면POS).md",
+    "POS 개발환경 셋팅.md",
+    "환경설정.md",
+    "솔루션 구성.md",
+    "업무확인사항/법인영업 매출 등록.md",
+    "업무확인사항/MD코드 체계 변경.md"
+  ]
+}

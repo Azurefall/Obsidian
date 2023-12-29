@@ -1,0 +1,17 @@
+{
+  "vimMode": false,
+  "promptDelete": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "첨부파일",
+  "trashOption": "none",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false
+}

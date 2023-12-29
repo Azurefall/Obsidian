@@ -1,0 +1,12 @@
+{
+  "theme": "system",
+  "cssTheme": "Obuntu",
+  "interfaceFontFamily": "나눔고딕",
+  "textFontFamily": "나눔고딕",
+  "monospaceFontFamily": "D2Coding ligature",
+  "enabledCssSnippets": [
+    "folder_colors"
+  ],
+  "baseFontSize": 13,
+  "accentColor": ""
+}
